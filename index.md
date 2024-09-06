@@ -20,8 +20,10 @@ Some glue like residue remains visible in <a href="#cleaner">the second photo</a
 Finally there is some rust which perhaps should be dealt with. 
 A few corners  <a href="#corosion"> seem to have a build up of residue and/or rust</a>. 
 The floor near pylon B <a href="#corosion2"> speckled with rust spots</a>. 
-Inside the curve near Pylon A<a href="#corosion3">  there is clear sign of once standing water leaving rust</a>i and the black residue mentioned above. 
+Inside the curve near Pylon A<a href="#corosion3">  there is clear sign of once standing water leaving rust</a> and the black residue mentioned above.
 
+
+Thanks to Christian Aguilar and Isidro Ocaranza for the support. 
 
 ## Images supporting the report
 <a href="debris">
@@ -42,5 +44,11 @@ This should not be a problem - it does not appear corrosive and will not generat
 <a name="corosion">![corrosion]( photos/corosion.jpg "Corrosion in corner ")</a>
 <a name="corosion2">![corrosion]( photos/corosion2.jpg "Corrosion on floor ")</a>
 <a name="corosion3">![corrosion]( photos/corosion3.jpg "Corrosion in curve near Pylon A  as well as black residue")</a>
+
+The images above show various spots of corrosion which look like rust from water contact. 
+
+<a name="nut">![nut]( photos/nut.jpg "Missing nut near Pylon A")</a>
+
+While cleaning one bolt without a nut was noticed.
 
 <a name="cleaners">![cleaners]( photos/cleaners.jpg "Cleaning Crew inside TMA Ring")</a>
