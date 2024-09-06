@@ -5,7 +5,7 @@ While pulling fibres we noticed a lot of dust and some corrosion in the TMA ring
 A cleaning was undertaken and a report was requested. 
 ```
 
-## Add content here
+## Report on status of TMA ring interior
 
 A lot of metallic dust and other debris were found in the ring near Pylon B. 
 There <a href="#debris">are photos below.</a>
@@ -23,6 +23,7 @@ The floor near pylon B <a href="#corosion2"> speckled with rust spots</a>.
 Inside the curve near Pylon A<a href="#corosion3">  there is clear sign of once standing water leaving rust</a>i and the black residue mentioned above. 
 
 
+## Images supporting the report
 <a href="debris">
 ![debris]( photos/debris.jpg "Debris1")
 ![debris]( photos/debris2.jpg "Debris2")
@@ -41,3 +42,5 @@ This should not be a problem - it does not appear corrosive and will not generat
 <a name="corosion">![corrosion]( photos/corosion.jpg "Corrosion in corner ")</a>
 <a name="corosion2">![corrosion]( photos/corosion2.jpg "Corrosion on floor ")</a>
 <a name="corosion3">![corrosion]( photos/corosion3.jpg "Corrosion in curve near Pylon A  as well as black residue")</a>
+
+<a name="cleaners">![cleaners]( photos/cleaners.jpg "Cleaning Crew inside TMA Ring")</a>
