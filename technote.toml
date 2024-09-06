@@ -1,0 +1,23 @@
+[technote]
+id = "ITTN-078"
+series_id = "ITTN"
+canonical_url = "https://ittn-078.lsst.io"
+github_url = "https://github.com/lsst-it/ittn-078"
+github_default_branch = "main"
+date_created = 2024-09-06T18:31:12Z
+organization.name = "Vera C. Rubin Observatory"
+organization.ror = "https://ror.org/048g3cy84"
+license.id = "CC-BY-4.0"
+
+[technote.status]
+state = "draft"
+
+[[technote.authors]]
+name.given = "William"
+name.family = "O'Mullane"
+internal_id = "omullanew"
+orcid = "https://orcid.org/0000-0003-4141-6195"
+[[technote.authors.affiliations]]
+name = "Vera C. Rubin Observatory"
+internal_id = "RubinObsC"
+address = "Avenida Juan Cisternas #1500, La Serena, Chile"
