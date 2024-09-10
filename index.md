@@ -23,7 +23,7 @@ The floor near pylon B <a href="#corosion2"> speckled with rust spots</a>.
 Inside the curve near Pylon A<a href="#corosion3">  there is clear sign of once standing water leaving rust</a> and the black residue mentioned above.
 
 
-Thanks to Christian Aguilar and Isidro Ocaranza for the support. 
+Thanks to Christian Aguilar, Claudio Araya and Isidro Ocaranza for the support. 
 
 ## Images supporting the report
 <a href="debris">
